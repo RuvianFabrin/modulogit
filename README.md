@@ -11,3 +11,4 @@ git commit -m "Mensagem" //faz o commit para o git, para enviar as alteração d
 git commit -am "Mensagem" //adiciona arquivos e faz commit
 git branch //lista os branch existentes
 
+git reset --hard //hard volta tudo, soft - mais usado em equipe
