@@ -12,5 +12,9 @@ git commit -am "Mensagem" //adiciona arquivos e faz commit
 git branch //lista os branch existentes - branch serve para criar um novo histórico
 git branch teste //cria o branch teste
 git checkout teste //vai para o branch teste
+git diff // alterações nos arquivos
+git diff --name-only //mostra só o nome dos arquivos
+git diff style.css // pega só as alterações do arquivo
+git checkout HEAD -- style.css //HEAD pega o branch atual | o comando remove as alterações feitas
 
 git reset --hard //hard volta tudo e apaga arquivos, soft - mais usado em equipe, mantem os arquivos criados
