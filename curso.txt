@@ -50,3 +50,10 @@ git push origin :teste
 Deletar local
 git branch -D teste
 
+###############
+Puxando commit de outras pessoas (pull)
+git pull origin main 
+
+Recomendação: antes do push, faça um pull, isso evita conflitos
+
+baixa os arquivos, pastas, e histórico
