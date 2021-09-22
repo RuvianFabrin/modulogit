@@ -26,4 +26,5 @@ fetch //pega o que tem remoto
 git push -u origin master // (-u destino local )envia oque tem local para o remoto
 
 //Alterações no Repositório remoto
+git push origin master // envia para o remoto
 
