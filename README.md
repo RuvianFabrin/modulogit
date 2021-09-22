@@ -23,4 +23,7 @@ depois de criado as chaves locais, ligado com o git e executado o comando de con
 git remote // mostra o repositório remoto 
 
 fetch //pega o que tem remoto
-git push -u origin master //envia oque tem local para o remoto
+git push -u origin master // (-u destino local )envia oque tem local para o remoto
+
+//Alterações no Repositório remoto
+
