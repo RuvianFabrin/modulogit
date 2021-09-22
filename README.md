@@ -18,3 +18,9 @@ git diff style.css // pega só as alterações do arquivo
 git checkout HEAD -- style.css //HEAD pega o branch atual | o comando remove as alterações feitas
 
 git reset --hard //hard volta tudo e apaga arquivos, soft - mais usado em equipe, mantem os arquivos criados
+
+depois de criado as chaves locais, ligado com o git e executado o comando de conexão
+git remote // mostra o repositório remoto 
+
+fetch //pega o que tem remoto
+git push -u origin master //envia oque tem local para o remoto
