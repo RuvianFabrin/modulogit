@@ -41,5 +41,12 @@ agora voltou, mas você ainda tem o commit anterior
 
 ###############
 Deletar branche remoto e local
+romoto:origin | local: teste
+o ":" deleta o branch remoto
 
+Deletar remoto
+git push origin :teste 
+
+Deletar local
+git branch -D teste
 
