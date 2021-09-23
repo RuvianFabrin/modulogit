@@ -20,6 +20,7 @@ git checkout HEAD -- style.css //HEAD pega o branch atual | o comando remove as 
 git reset --hard //hard volta tudo e apaga arquivos, soft - mais usado em equipe, mantem os arquivos criados
 
 depois de criado as chaves locais, ligado com o git e executado o comando de conexão
+git remote add origem caminho_do_git_hub
 git remote // mostra o repositório remoto 
 
 fetch //pega o que tem remoto
