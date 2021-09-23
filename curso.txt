@@ -66,3 +66,16 @@ Clonando repositório remoto
 
 Se você é o dono você consegue alterar, fazer commit, entre outras coisas, caso contrario só é possivel contribuir
 
+###############
+Contribuindo com outros projetos (fork)
+Vai no projeto no github e clique em "fork"
+apartir dai é possivel clonar e fazer alterações
+mande pro remoto suas alterações
+
+git remote -v //para ver o nome remoto
+
+no github vá em new pull request
+para enviar para o projeto original as alterações que você fez
+Argumente o porque você fe a alteração
+
+
